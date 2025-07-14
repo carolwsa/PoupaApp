@@ -1,0 +1,48 @@
+{
+  "usuarios": [
+    {
+      "id": "03e3",
+      "nome": "Ana Carolina",
+      "renda": "100",
+      "orcamentoDiario": 51.666666666666664
+    }
+  ],
+  "transacoes": [
+    {
+      "id": "6af2",
+      "nome": "Fapergs",
+      "valor": 700,
+      "tipo": "receita",
+      "categoria": "Pagamento",
+      "data": "2025-07-01",
+      "userID": "03e3"
+    },
+    {
+      "id": "ff14",
+      "nome": "Salario",
+      "valor": 1000,
+      "tipo": "receita",
+      "categoria": "Pagamento",
+      "data": "2025-07-04",
+      "userID": "03e3"
+    },
+    {
+      "id": "29fc",
+      "nome": "Ceramica fria",
+      "valor": 200,
+      "tipo": "despesa",
+      "categoria": "Compra",
+      "data": "2022-05-01",
+      "userID": "03e3"
+    },
+    {
+      "id": "4b82",
+      "nome": "Xis",
+      "valor": 50,
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-02-01",
+      "userID": "03e3"
+    }
+  ]
+}
